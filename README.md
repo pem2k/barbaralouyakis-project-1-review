@@ -56,6 +56,9 @@ Watch the demonstration video (...)
 
 View the Google Slide presentation (./images/BarbaraLouyakisPortfolioSlides.pdf)
 
+Link to the slideshow on the web
+![https://docs.google.com/presentation/d/e/2PACX-1vRcbOQ1zUoBmtMcwZW6Da3J7BDXBsRr2pD7fi-aVjCp73T2N-Nye2YjoS5Yk8c5MLu3THnl5_JO0i1O/pub?start=false&loop=false&delayms=3000]
+
 ## GenAI Usage
 
 The 'Professional' & 'Employment' pages were developed using AI tools:
