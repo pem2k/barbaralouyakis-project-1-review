@@ -5,7 +5,7 @@ A personal portfolio and resume website for Barbara Louyakis
 
 ## Project Objective
 
-    Create a personal portfolio that displays my education & professional work, current employment, current projects and contact information
+Create a personal portfolio that displays my education & professional work, current employment, current projects and contact information
 ---
 
 ## Screenshots
