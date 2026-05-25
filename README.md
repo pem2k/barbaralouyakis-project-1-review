@@ -7,8 +7,8 @@ Create a personal portfolio that displays my education & professional work, curr
 ---
 
 ## Screenshots
-!https://blouyakis.github.io/barbaralouyakis/index.html(./images/index.png)
-!https://blouyakis.github.io/barbaralouyakis/contact.html(./images/contact.png)
+![https://blouyakis.github.io/barbaralouyakis/index.html](./images/index.png)
+![https://blouyakis.github.io/barbaralouyakis/contact.html](./images/contact.png)
 ---
 
 ## Tech Requirements
