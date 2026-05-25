@@ -12,14 +12,14 @@ Create a personal portfolio that displays my education & professional work, curr
 ---
 
 ## Tech Requirements
-HTML5
-W3C Compliant
-CSS3 with custom styling
-JavaScript Vanilla ES6
-Bootstrap 5.3.8 grid & navbar
-ESLint
-Prettier
-Google Fonts (Amethysta)
+-HTML5
+-W3C Compliant
+-CSS3 with custom styling
+-JavaScript Vanilla ES6
+-Bootstrap 5.3.8 grid & navbar
+-ESLint
+-Prettier
+-Google Fonts (Amethysta)
 ---
 
 ## How to install/use
