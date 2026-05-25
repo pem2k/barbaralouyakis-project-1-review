@@ -30,7 +30,7 @@ Create a personal portfolio that displays my education & professional work, curr
 
 ## How to install/use
 
-- Clone the repository: git clone https://blouyakis.github.io/barbaralouyakis.git
+- Clone the repository: git clone (https://blouyakis.github.io/barbaralouyakis.git)
 - Go to the project folder: cd barbaralouyakis
 - Install dependencies: npm install
 - Run a local server: live-server 
@@ -46,15 +46,15 @@ CS5610 Web Development (https://johnguerra.co/classes/webDevelopment_online_summ
 
 ## Design Document
 
-See the full design document here (./DESIGN.md)
+See the full design document here ![https://blouyakis.github.io/barbaralouyakis/](./DESIGN.md)
 
 ## Video Demonstration
 
-Watch the demonstration video (...)
+Watch the demonstration video [View Video Demo](https://northeastern.zoom.us/rec/share/gEmAn_X9KxjfTezbOpXU1JqY7Azgjbf3bdAkbEDyiQ4gERoMKCMbvfbI7Eezd0tw.mfspidsFHa9X_LiC)
 
 ## Slide Presentation
 
-View the Google Slide presentation PDF (./images/BarbaraLouyakisPortfolioSlides.pdf)
+View the Google Slide presentation PDF ![https://blouyakis.github.io/barbaralouyakis/](./images/BarbaraLouyakisPortfolioSlides.pdf)
 
 Link to the Google Slide Presentation on the web
 [View Slide Presentation](https://docs.google.com/presentation/d/e/2PACX-1vRcbOQ1zUoBmtMcwZW6Da3J7BDXBsRr2pD7fi-aVjCp73T2N-Nye2YjoS5Yk8c5MLu3THnl5_JO0i1O/pub?start=false&loop=false&delayms=3000)
