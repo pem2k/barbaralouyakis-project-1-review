@@ -46,8 +46,8 @@ Watch the demonstration video (...)
 The 'Professional' & 'Employment' pages were developed using AI tools:
 Claude (Anthropic) Sonnet 4-6 used to code the required AI generated pages
 Prompts used:
-Professional page prompt:
-Employment page prompt:
+- Professional page prompt:
+- Employment page prompt:
 ---
 
 ## License
