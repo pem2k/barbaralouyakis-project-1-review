@@ -54,7 +54,7 @@ Watch the demonstration video (...)
 
 ## Slide Presentation
 
-View the Google Slide presentation (...)
+View the Google Slide presentation (./images/BarbaraLouyakisPortfolioSlides.pdf)
 
 ## GenAI Usage
 
