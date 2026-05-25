@@ -72,3 +72,22 @@ Peter is a local fisherman out of New Bedford Fish Pier. He has only been fishin
 - Peter heard about grant money from his friend and got the name of the person who coordinates the funds. He looked up her name, followed her portfolio link and quickly found the application he needed within minutes. 
 
 ## Design Mockups
+
+### Navigation
+index.html (Homepage)
+|----- projects
+|----- contact
+|----- employment
+|----- education
+|----- professional
+
+### Page View Snapshots
+
+![https://blouyakis.github.io/barbaralouyakis/index.html](./images/index.png)
+![https://blouyakis.github.io/barbaralouyakis/contact.html](./images/contact.png)
+![https://blouyakis.github.io/barbaralouyakis/projects.html](./images/projects.png)
+![https://blouyakis.github.io/barbaralouyakis/education.html](./images/education.png)
+![https://blouyakis.github.io/barbaralouyakis/employment.html](./images/employment.png)
+![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional1.png)
+![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional2.png)
+![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional3.png)
