@@ -1,0 +1,154 @@
+/* === Font Scheme === */
+html {
+  /* Base Font Size */
+  font-size: 16px;
+
+  /* Google Fonts */
+  font-family: "Amethysta", serif;
+  font-weight: 400;
+  font-style: normal;
+  scroll-behavior: smooth;
+}
+
+/* === Color Scheme === */
+:root {
+    --navy: #0d226b;
+    --teal: #2a9d8f;
+    --pink-light: #f261ac;
+    --cream: #f0f4f8;
+    --white: #ffffff;
+}
+
+/* === Global === */
+body {
+    background-color: var(--cream);
+    color: var(--navy);
+}
+
+/* === Heading Typography === */
+h1 {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: var(--navy);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--pink-light);
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--pink-light);
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+}
+
+h4 {
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--navy);
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+}
+
+/* === Navbar === */
+.nav-custom {
+    background-color: var(--navy);
+}
+.nav-custom .nav-link {
+    color: var(--cream);
+    margin: 0 0.25rem;
+    border: 1px solid transparent;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+}
+.nav-custom .nav-link:hover {
+    color: var(--white);
+    border-color: var(--pink-light);
+    background-color: var(--pink-light); 
+}
+
+/* === Heading Section === */
+.hero-section {
+    padding: 4rem 0 2rem;
+}
+
+/* === Section Cards === */
+.section-card {
+    display: block;
+    width: 300px;
+    padding: 2rem 2rem;
+    border: 7px solid var(--pink-light);
+    border-radius: 16px;
+    background-color: var(--white);
+    color: var(--navy);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+.section-card:hover {
+    background-color: var(--pink-light);
+    color: var(--white);
+    transform: translateY(-4px);
+    box-shadow: 0 6px 16px rgba(42, 157, 143, 0.3);
+}
+
+.section-card h3 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.section-card:hover h3 {
+    color: var(--white);
+}
+
+/* === Contact Card === */
+.contact-card {
+    width: 400px;
+    background-color: var(--cream);
+    border: 3px solid var(--pink-light);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+.btn-submit {
+    display: block;
+    margin: 1rem auto 0;
+    background-color: var(--pink-light);
+    color: var(--cream);
+    border: 1px solid var(--pink-light);
+    border-radius: 10px;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+.btn-submit:hover {
+    background-color: var(--pink-light);
+}
+.form-feedback {
+    margin-top: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
+.form-feedback.error {
+    color: var(--pink-light);
+}
+
+/* === Coral Photo === */
+.coral-photo {
+    display: block;
+    margin: 2rem auto;
+    max-width: 500px;
+    object-fit: cover;
+    border: 5px solid var(--pink-light);
+    border-radius: 50%;
+}

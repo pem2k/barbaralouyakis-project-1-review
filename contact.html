@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Barbara Louyakis" />
+    <meta name="description" content="Portfolio" />
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon" /> 
+    <title>Barbara Louyakis | Portfolio</title>
+
+    <!-- Bootstrap stylesheet & security -->
+    <link 
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
+      rel="stylesheet" 
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
+      crossorigin="anonymous" 
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amethysta&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="./css/main.css" />
+</head>
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark nav-custom">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+              <img 
+                src="./images/navbar.png" 
+                alt="BHL Logo" 
+                width="30" 
+                height="24" 
+                class="d-inline-block align-text-top" 
+              /> 
+            BHL
+            </a>
+
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNav"
+              aria-controls="navbarNav"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+              >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ms-auto">
+                <li class="nav-item">
+                  <a class="nav-link" href="./education.html">Education</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./professional.html">Professional</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./projects.html">Projects</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./employment.html">Employment</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./contact.html">Contact</a>
+                </li>
+              </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Content -->
+    <div class="container content">
+        <h1>Contact Information</h1>
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="contact-card">
+                    <h3><strong>Barbara Louyakis</strong></h3>
+                    <h3>Rochester, MA</h3>
+                    <hr>
+                    <h4>(508)612.9634</h4>
+                    <h4><a href="mailto:bobbilouyakis@icloud.com">BobbiLouyakis@iCloud.com</a></h4>
+                    <hr>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-6">
+                <form id="contact-form" novalidate>
+                    <div class="mb-3">
+                        <label for="name" class="form-label">Name</label>
+                        <input type="text" class="form-control" id="name" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="email" class="form-control" id="email" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="phone" class="form-label">Phone Number</label>
+                        <input type="tel" class="form-control" id="phone" required />
+                    </div>
+                    <div class="mb-3">
+                        <label for="message" class="form-label">Message</label>
+                        <textarea class="form-control" id="message" rows="3" placeholder="Type message here..."></textarea>
+                    </div>
+                    <button type="submit" class="btn-submit">Send</button>
+                </form>
+                <p id="form-feedback" class="form-feedback"></p>
+            </div>
+        </div>
+    </div>
+
+  <script 
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" 
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" 
+    crossorigin="anonymous">
+  </script>
+  <script type="module" src="./scripts/main.js"></script>
+
+  </body>
+</html>
