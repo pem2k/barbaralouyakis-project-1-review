@@ -1,12 +1,10 @@
 # Barbara Louyakis | Portfolio
 
 A personal portfolio and resume website for Barbara Louyakis
----
 
 ## Project Objective
 
 Create a personal portfolio that displays my education & professional work, current employment, current projects and contact information
----
 
 ## Screenshots
 
@@ -19,8 +17,6 @@ Create a personal portfolio that displays my education & professional work, curr
 ![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional2.png)
 ![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional3.png)
 
----
-
 ## Tech Requirements
 
 - HTML5
@@ -31,7 +27,6 @@ Create a personal portfolio that displays my education & professional work, curr
 - ESLint
 - Prettier
 - Google Fonts (Amethysta)
----
 
 ## How to install/use
 
@@ -39,33 +34,27 @@ Create a personal portfolio that displays my education & professional work, curr
 - Go to the project folder: cd barbaralouyakis
 - Install dependencies: npm install
 - Run a local server: live-server 
----
 
 ## Author 
 
 Barbara Louyakis | Portfolio (https://blouyakis.github.io/barbaralouyakis/)
----
 
 ## Class Reference
 
 This project was designed & developed for CS5610 Web Development at Northeastern University.
 CS5610 Web Development (https://johnguerra.co/classes/webDevelopment_online_summer_2026/)
----
 
 ## Design Document
 
 See the full design document here (./DESIGN.md)
----
 
 ## Video Demonstration
 
 Watch the demonstration video (...)
----
 
 ## Slide Presentation
 
 View the Google Slide presentation (...)
----
 
 ## GenAI Usage
 
@@ -74,9 +63,7 @@ Claude (Anthropic) Sonnet 4-6 used to code the required AI generated pages
 Prompts used:
 - Prompt: "I want you to role play as a professional web developer. I will share my resume with you. I want you to use the information from my resume to generate the education.html & professional.html pages."
 ![https://blouyakis.github.io/barbaralouyakis/](./images/genai.png)
----
 
 ## License
 
 This project is licensed under the MIT License - see (./LICENSE) for details.
----
