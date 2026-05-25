@@ -50,7 +50,7 @@ See the full design document here ![https://blouyakis.github.io/barbaralouyakis/
 
 ## Video Demonstration
 
-Watch the demonstration video [View Video Demo](https://northeastern.zoom.us/rec/share/gEmAn_X9KxjfTezbOpXU1JqY7Azgjbf3bdAkbEDyiQ4gERoMKCMbvfbI7Eezd0tw.mfspidsFHa9X_LiC)
+Watch the demonstration video [View Video Demo](https://northeastern.zoom.us/rec/share/vwN1HQd0ygTeGwuxvndfluYa1Vjmo14Xdn6IfoWSKK1vk8uXON53k1lkY6DVpxab.E9Bj2L9aZ_eHLBPB)
 
 ## Slide Presentation
 
