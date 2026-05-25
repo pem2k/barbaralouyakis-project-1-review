@@ -74,12 +74,12 @@ Peter is a local fisherman out of New Bedford Fish Pier. He has only been fishin
 ## Design Mockups
 
 ### Navigation
-index.html (Homepage)
-|----- projects
-|----- contact
-|----- employment
-|----- education
-|----- professional
+- index.html (Homepage)
+- |----- projects
+- |----- contact
+- |----- employment
+- |----- education
+- |----- professional
 
 ### Page View Snapshots
 
