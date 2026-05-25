@@ -9,6 +9,13 @@ Create a personal portfolio that displays my education & professional work, curr
 ## Screenshots
 ![https://blouyakis.github.io/barbaralouyakis/index.html](./images/index.png)
 ![https://blouyakis.github.io/barbaralouyakis/contact.html](./images/contact.png)
+![https://blouyakis.github.io/barbaralouyakis/projects.html](./images/projects.png)
+![https://blouyakis.github.io/barbaralouyakis/education.html](./images/education.png)
+![https://blouyakis.github.io/barbaralouyakis/employment.html](./images/employment.png)
+![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional1.png)
+![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional2.png)
+![https://blouyakis.github.io/barbaralouyakis/professional.html](./images/professional3.png)
+
 ---
 
 ## Tech Requirements
@@ -40,6 +47,10 @@ CS5610 Web Development (https://johnguerra.co/classes/webDevelopment_online_summ
 
 ## Video Demonstration
 Watch the demonstration video (...)
+---
+
+## Slide Presentation
+View the Google Slide presentation (...)
 ---
 
 ## GenAI Usage
