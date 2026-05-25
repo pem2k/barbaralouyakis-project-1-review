@@ -4,22 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="author" content="Barbara Louyakis" />
-    <meta name="description" content="Portfolio" />
-    <link rel="icon" href="./images/favicon.ico" type="image/x-icon" /> 
-    <title>Barbara Louyakis | Portfolio</title>
+    <meta name="description" content="Education - Barbara Louyakis Portfolio" />
+    <link rel="icon" href="./images/favicon.ico" type="image/x-icon" />
+    <title>Barbara Louyakis | Education</title>
 
     <!-- Bootstrap stylesheet & security -->
-    <link 
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" 
-      rel="stylesheet" 
-      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" 
-      crossorigin="anonymous" 
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
+      crossorigin="anonymous"
     />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Amethysta&display=swap" rel="stylesheet">
-    
+
     <link rel="stylesheet" href="./css/main.css" />
 </head>
 
@@ -27,13 +27,13 @@
     <nav class="navbar navbar-expand-lg navbar-dark nav-custom">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.html">
-              <img 
-                src="./images/navbar.png" 
-                alt="BHL Logo" 
-                width="30" 
-                height="24" 
-                class="d-inline-block align-text-top" 
-              /> 
+              <img
+                src="./images/navbar.png"
+                alt="BHL Logo"
+                width="30"
+                height="24"
+                class="d-inline-block align-text-top"
+              />
             BHL
             </a>
 
@@ -48,11 +48,11 @@
               >
               <span class="navbar-toggler-icon"></span>
             </button>
-            
+
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav ms-auto">
                 <li class="nav-item">
-                  <a class="nav-link" href="./education.html">Education</a>
+                  <a class="nav-link active" aria-current="page" href="./education.html">Education</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="./professional.html">Professional</a>
@@ -71,9 +71,80 @@
         </div>
     </nav>
 
-  <script 
-    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" 
-    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" 
+    <!-- Main Content -->
+    <div class="container pb-5">
+
+      <h1>Education</h1>
+
+      <!-- ===== Degrees ===== -->
+      <h2>Degrees</h2>
+      <div class="row justify-content-center g-4 mb-5">
+
+        <div class="col-auto">
+          <div class="project-card">
+            <p class="degree-card-title">Northeastern University</p>
+            <p><strong>Master of Science</strong><br>Computer Science</p>
+            <p>Expected May 2027</p>
+          </div>
+        </div>
+
+        <div class="col-auto">
+          <div class="project-card">
+            <p class="degree-card-title">Clark University</p>
+            <p><strong>Bachelor of Arts</strong><br>International Development and Social Change</p>
+            <p>2012</p>
+            <p>🎓 Dean's List</p>
+          </div>
+        </div>
+
+        <div class="col-auto">
+          <div class="project-card">
+            <p class="degree-card-title">Coastal Carolina University</p>
+            <p><strong>Bachelor of Science</strong><br>Political Science</p>
+            <p>2010</p>
+            <p>🎓 Dean's List &nbsp;|&nbsp; National Dean's List</p>
+          </div>
+        </div>
+
+        <div class="col-auto">
+          <div class="project-card">
+            <p class="degree-card-title">National Medical Education<br>and Training Center</p>
+            <p><strong>Emergency Medical Technician</strong></p>
+            <p>2023</p>
+          </div>
+        </div>
+
+      </div>
+      <!-- End Degrees -->
+
+      <!-- ===== Certifications ===== -->
+      <h2>Certifications</h2>
+      <div class="row justify-content-center mb-5">
+        <div class="col-lg-10 text-center">
+          <span class="cert-badge">STCW &ndash; US Coast Guard</span>
+          <span class="cert-badge">AMSEA Onboard Drill Instructor</span>
+          <span class="cert-badge">USCG Safety &amp; Survival</span>
+          <span class="cert-badge">NREMT Emergency Medical Technician</span>
+          <span class="cert-badge">Massachusetts EMT-B</span>
+          <span class="cert-badge">AHA CPR Instructor</span>
+          <span class="cert-badge">AHA BLS, CPR &amp; AED</span>
+          <span class="cert-badge">FEMA Incident Command System (ICS)</span>
+          <span class="cert-badge">ServSafe Manager</span>
+          <span class="cert-badge">Food Allergen Awareness</span>
+          <span class="cert-badge">Crowd Manager</span>
+          <span class="cert-badge">SCUBA Basic</span>
+          <span class="cert-badge">Active Shooter Preparedness</span>
+          <span class="cert-badge">Workplace Harassment Prevention</span>
+        </div>
+      </div>
+      <!-- End Certifications -->
+
+    </div>
+    <!-- End Main Content -->
+
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
     crossorigin="anonymous">
   </script>
   <script type="module" src="./scripts/main.js"></script>

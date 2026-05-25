@@ -46,8 +46,8 @@ Watch the demonstration video (...)
 The 'Professional' & 'Employment' pages were developed using AI tools:
 Claude (Anthropic) Sonnet 4-6 used to code the required AI generated pages
 Prompts used:
-- Professional page prompt:
-- Employment page prompt:
+- Prompt: "I want you to role play as a professional web developer. I will share my resume with you. I want you to use the information from my resume to generate the education.html & professional.html pages."
+![https://blouyakis.github.io/barbaralouyakis/](./images/genai.png)
 ---
 
 ## License
