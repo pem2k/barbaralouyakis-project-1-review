@@ -1,4 +1,4 @@
-/* === Font Scheme === */
+/* ===== Font Scheme ===== */
 html {
   /* Base Font Size */
   font-size: 16px;
@@ -10,7 +10,7 @@ html {
   scroll-behavior: smooth;
 }
 
-/* === Color Scheme === */
+/* ===== Color Scheme ===== */
 :root {
     --navy: #0d226b;
     --teal: #2a9d8f;
@@ -19,13 +19,13 @@ html {
     --white: #ffffff;
 }
 
-/* === Global === */
+/* ===== Global ===== */
 body {
     background-color: var(--cream);
     color: var(--navy);
 }
 
-/* === Heading Typography === */
+/* ===== Heading Typography ===== */
 h1 {
     text-align: center;
     margin-top: 2rem;
@@ -59,7 +59,7 @@ h4 {
     letter-spacing: 0.1rem;
 }
 
-/* === Navbar === */
+/* ===== Navbar ===== */
 .nav-custom {
     background-color: var(--navy);
 }
@@ -76,12 +76,12 @@ h4 {
     background-color: var(--pink-light); 
 }
 
-/* === Heading Section === */
+/* ===== Heading Section ===== */
 .hero-section {
     padding: 4rem 0 2rem;
 }
 
-/* === Section Cards === */
+/* ===== Section Cards ===== */
 .section-card {
     display: block;
     width: 300px;
@@ -110,7 +110,7 @@ h4 {
     color: var(--white);
 }
 
-/* === Contact Card === */
+/* ===== Contact Card ===== */
 .contact-card {
     width: 400px;
     background-color: var(--cream);
@@ -143,7 +143,7 @@ h4 {
     color: var(--pink-light);
 }
 
-/* === Coral Photo === */
+/* ===== Coral Photo ===== */
 .coral-photo {
     display: block;
     margin: 2rem auto;
@@ -151,4 +151,15 @@ h4 {
     object-fit: cover;
     border: 5px solid var(--pink-light);
     border-radius: 50%;
+}
+
+/* ===== Project Cards ===== */
+.project-card {
+    width: 400px;
+    background-color: var(--cream);
+    border: 3px solid var(--pink-light);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
 }
