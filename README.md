@@ -52,6 +52,11 @@ This project was designed & developed for CS5610 Web Development at Northeastern
 CS5610 Web Development (https://johnguerra.co/classes/webDevelopment_online_summer_2026/)
 ---
 
+## Design Document
+
+See the full design document here (./DESIGN.md)
+---
+
 ## Video Demonstration
 
 Watch the demonstration video (...)
