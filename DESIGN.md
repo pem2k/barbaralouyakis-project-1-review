@@ -55,4 +55,20 @@ Device: iPhone, Safari Browser
 
 ## User Stories
 
+### Diana Prince, Hiring Manager
+Diana is reading thousands of applications for a software engineer position recently opened at her company, Amazon. She gets Barbara's application and clicks a link to her portfolio. She immediately understands that any applicant with their own personal website must know a thing or two about computers. She navigates easily through the beautifully designed site, which clearly defines each category she is interested in learning more about. She reviews Barbara's current employment, checks out her projects page, and validates her qualifications through the Professional page. She wants to setup an interview, so she navigates over to the Contact page and sends her a quick message through the form to confirm her availability. 
+- Diana was pleased with how well organized Barbara's information was and how quickly she was able to get the information she needed in just a couple of minutes time. 
+
+### Clark Kent, MSCS Align Student
+Clark is creating is own portfolio for the same web development class as Barbara. He checks out her site and thinks the navbar is sleek and sexy. He is not a fan of her color scheme, but likes how the pink does pop out of the page nicely. He finds some cool features like buttons changing when he hovers his mouse over them. He wants to figure out how she did all this, so he navigates to her Projects page and links over to her GitHub repo. He can easily see her entire project and has a ton a great ideas to take back to his own development project. 
+- Clark was inspired by Barbara's buttons and navbar and quickly figured out how to implement these features in his own portfolio since she also shared her GitHub repo. 
+
+### Steve Rogers, Web Development Professor
+Steve is ready to grade Barbara's first project, which she designed as a personal portfolio. He follows her URL to the homepage and sees a pretty picture of coral, setting the theme of the site, and notes she is a student and a mariner. He wants to ensure she followed the project guidelines so he inspects the HTML for proper semantics, meta tags, ES6 modules, then he copies the URL into the validator from W3C. He checks out each page, and tries to send a message using Barbara's form feature on the contact page. He also reads the README and finds more information including a demo video and a slide presentation. He confirms the page has the required MIT License, and he runs ESLint. He also notices she followed the instructions to create a page with GenAI, and he reviews the reference she included in the README file. 
+- Steve enjoys navigating Barbara's website and gives her full credit for a great design and extra features. 
+
+### Peter Parker, Fisherman
+Peter is a local fisherman out of New Bedford Fish Pier. He has only been fishing a few years but he has seen the massive wind farms being built off the Massachusetts coast. His buddies have all taken jobs aboard safety vessels and they brag about how easy the work is and how much better the pay is than fishing. Peter wants to get in on this work, but he does not have the required STCW certification to qualify. He calls around and all the schools are charging $500 for this training. He hears from another local fisherman that the MA CEC is giving out grant money which will pay for his STCW certification. He gets the name of the project coordinator and Googles her. He finds her personal portfolio and navigates to her employment page. He sees exactly what he is looking for, she is the project coordinator for the grant and there is a link on her page to the JotForm application he needs. He clicks it, applies and gets a phone call a few minutes later telling him he has been approved for funding. 
+- Peter heard about grant money from his friend and got the name of the person who coordinates the funds. He looked up her name, followed her portfolio link and quickly found the application he needed within minutes. 
+
 ## Design Mockups
